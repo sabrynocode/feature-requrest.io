@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Feature" ALTER COLUMN "status" SET DEFAULT 'PLANNED';
